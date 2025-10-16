@@ -9,7 +9,7 @@ toc-title: "Содержание"
 
 ## Bibliography
 bibliography: bib/cite.bib
-csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
+csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl   
 
 ## Pdf output format
 toc: true # Table of contents

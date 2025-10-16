@@ -8,7 +8,7 @@ subtitle:
 ## i18n babel
 babel-lang: russian
 babel-otherlangs: english
-
+  
 ## Formatting pdf
 toc: false
 toc-title: Содержание
